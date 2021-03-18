@@ -1,0 +1,28 @@
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Libre+Caslon+Text&display=swap" rel="stylesheet">
+
+
+
+.flexContainer {
+display:flex;
+width: 33%;
+margin: auto;
+padding: 10px;
+Flex-direction:row;
+
+}
+
+.html{
+font-family: 'Libre Caslon Text', serif;
+size: 14px;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-rows: 100px 300px;
+
+
+    }
+.body{
+    background-color: pink;
+}
